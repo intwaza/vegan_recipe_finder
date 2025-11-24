@@ -165,11 +165,7 @@ It returns recipe titles, images, and difficulty levels.
 
 ## Demo Video
 
-(video link)[https://youtu.be/0iJtqIyfW6A]. Show:
-
-- Local usage
-- Search, filter, and sort
-- Access through load balancer
+[video link](https://youtu.be/0iJtqIyfW6A)
 
 ## Author
 
