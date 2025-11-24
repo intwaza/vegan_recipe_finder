@@ -1,0 +1,9 @@
+// Configuration file for Recipe Finder Application
+// Copy this file to config.js and add your RapidAPI key
+
+const config = {
+    // Get your free API key from: https://rapidapi.com/vegan-recipes-db/api/the-vegan-recipes-db
+    // Sign up at https://rapidapi.com and subscribe to The Vegan Recipes DB API
+    RAPIDAPI_KEY: 'your-rapidapi-key-here'
+};
+
